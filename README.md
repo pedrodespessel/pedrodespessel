@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Assessor de Investimentos;
-- 🌱 Estudando sobre front-end (Html, Css e JS);
+- 🌱 Estudando Html, Css e JS, NodeJS, React, React Native, Bulma, TypeScript;
 - 🎥 Instagram: @pedrodespessel
 
  <div>
