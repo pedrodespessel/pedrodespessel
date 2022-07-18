@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Pedro Despessel 👋
 
 
-- 🔭 Atualmente trabalho como Assessor de Investimentos;
+- 🔭 Assessor de Investimentos credenciado à XP;
 - 🌱 Estudando Html, Css, JS, e React Native;
 - 🎥 Instagram: @pedrodespessel
 
