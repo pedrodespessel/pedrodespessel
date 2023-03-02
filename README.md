@@ -1,9 +1,10 @@
 ### Olá, eu me chamo Pedro Despessel 👋
 
 
-- 🔭 Assessor de Investimentos credenciado à XP;
-- 🌱 Estudando Html, Css, JS, e React Native;
-- 🎥 Instagram: @pedrodespessel
++ de 5 anos de experiência no mercado financeiro;
+🌱 Estudando Html, Css, JS, e principalmente Python;
+🎥 Instagram: @pedrodespessel
+Tentando me aprimorar em Data Science
 
  <div>
   <a href="https://github.com/pedrodespessel">
