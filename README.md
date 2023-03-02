@@ -1,10 +1,10 @@
 ### Olá, eu me chamo Pedro Despessel 👋
 
 
-+ de 5 anos de experiência no mercado financeiro;
-🌱 Estudando Html, Css, JS, e principalmente Python;
-🎥 Instagram: @pedrodespessel
-Tentando me aprimorar em Data Science
+- Mais de 5 anos de experiência no mercado financeiro;
+- 🌱 Estudando Html, Css, JS, e principalmente Python;
+- Tentando me aprimorar em Data Science;
+- 🎥 Instagram: @pedrodespessel
 
  <div>
   <a href="https://github.com/pedrodespessel">
