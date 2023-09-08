@@ -1,9 +1,9 @@
 ### Olá, eu me chamo Pedro Despessel 👋
 
 
-- Mais de 5 anos de experiência no mercado financeiro;
-- 🌱 Estudando Html, Css, JS, e principalmente Python;
-- Tentando me aprimorar em Data Science;
+- CNPI-P com Mais de 5 anos de experiência no mercado financeiro;
+- 🌱 Estudando Html, Css, JS e Python;
+- União da programação ao Mercado Financeiro;
 - 🎥 Instagram: @pedrodespessel
 
  <div>
