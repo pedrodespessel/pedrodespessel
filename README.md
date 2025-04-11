@@ -1,9 +1,9 @@
 ### Olá, eu me chamo Pedro Despessel 👋
 
-
-- Analista CNPI-P com mais de 6 anos de experiência no mercado financeiro;
+- Unindo a tecnologia ao mercado financeiro;
+- Gestor de IA e Analista CNPI-P com mais de 7 anos de experiência no mercado financeiro;
 - 🌱 Estudando Html, Css, JS e Python;
-- Unindo a programação ao mercado financeiro;
+- Especialista em N8N;
 - 🎥 Instagram: @pedrodespessel
 
  <div>
