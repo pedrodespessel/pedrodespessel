@@ -2,8 +2,8 @@
 
 - Unindo a tecnologia ao mercado financeiro;
 - Gestor de IA e Analista CNPI-P com mais de 7 anos de experiência no mercado financeiro;
-- 🌱 Estudando Html, Css, JS e Python;
-- Especialista em N8N;
+- 🌱 Aprendendo sempre;
+- Especialista em N8N e Prompt Engineering;
 - 🎥 Instagram: @pedrodespessel
 
  <div>
