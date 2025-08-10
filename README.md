@@ -1,9 +1,10 @@
-### Olá, eu me chamo Pedro Despessel 👋
+### Hi, I'm Pedro Despessel 👋
 
-- Unindo a tecnologia ao mercado financeiro;
-- Gestor de IA e Analista CNPI-P com mais de 7 anos de experiência no mercado financeiro;
-- Cursando MBA em Engenharia de Sofware pela USP/Esalq;
-- Especialista em N8N e Prompt Engineering;
+- Portfolio: pedrodespessel.com (usually outdated)
+- Bridging technology and the financial market
+- AI Manager and CNPI-P Analyst with 7+ years of experience in the financial market
+- Currently pursuing an MBA in Software Engineering at USP/Esalq
+- Specialist in N8N and Prompt Engineering
 - 🎥 Instagram: @pedrodespessel
 
  <div>
