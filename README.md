@@ -7,6 +7,8 @@
 - Specialist in N8N and Prompt Engineering
 - 🎥 Instagram: @pedrodespessel
 
+- Projects: findmylyrics.com, cardyz.com, countergg.pro, etc.
+
  <div>
   <a href="https://github.com/pedrodespessel">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pedrodespessel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
