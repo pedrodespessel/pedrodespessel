@@ -1,13 +1,10 @@
 ### Hi, I'm Pedro Despessel 👋
 
 - Portfolio: pedrodespessel.com (usually outdated)
-- Bridging technology and the financial market
-- AI Manager and CNPI-P Analyst with 7+ years of experience in the financial market
-- Currently pursuing an MBA in Software Engineering at USP/Esalq
-- Specialist in N8N and Prompt Engineering
+- Software Engineer (USP/Esalq)
 - 🎥 Instagram: @pedrodespessel
 
-- Projects: findmylyrics.com, cardyz.com, countergg.pro, etc.
+- Projects: findmylyrics.com, cardyz.com, countergg.vercel.app, etc.
 
  <div>
   <a href="https://github.com/pedrodespessel">
