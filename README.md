@@ -2,9 +2,6 @@
 
 - Portfolio: pedrodespessel.com (usually outdated)
 - Software Engineer (USP/Esalq)
-- 🎥 Instagram: @pedrodespessel
-
-- Projects: findmylyrics.com, lootaleslash.com, countergg.vercel.app, etc.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="p-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
